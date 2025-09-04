@@ -9,7 +9,7 @@ style: |
   }
 ---
 
-# React Server Component でのレンダリングの流れ
+# React Server Component
 
 2025/9/5 平野大介
 
